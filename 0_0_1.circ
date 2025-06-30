@@ -3140,7 +3140,6 @@
     <comp lib="3" loc="(320,490)" name="Adder">
       <a name="width" val="32"/>
     </comp>
-    <comp loc="(370,200)" name="ADD_Ripple_32Bit"/>
     <wire from="(210,300)" to="(280,300)"/>
     <wire from="(210,320)" to="(280,320)"/>
     <wire from="(210,360)" to="(280,360)"/>
