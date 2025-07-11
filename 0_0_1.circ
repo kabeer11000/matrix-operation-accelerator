@@ -4821,6 +4821,9 @@
     <comp loc="(340,1170)" name="REG_RegisterFile_v3"/>
     <comp loc="(410,330)" name="RAM_BANK"/>
     <comp loc="(410,460)" name="RAM_BANK"/>
+    <comp loc="(420,730)" name="TEST_CoreAdder_v2">
+      <a name="facing" val="south"/>
+    </comp>
     <comp loc="(530,730)" name="TEST_CoreAdder_v2">
       <a name="facing" val="south"/>
     </comp>
